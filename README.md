@@ -1,23 +1,29 @@
-# Finance API 
+# DEVOPS PROJECT
 
 ## About
-Finance API developed during Rocketseat back-end online course 
-## Commands 
-Install dependencies: 
-```cmd 
+
+This is a final project for devops subject of PUC Minas University
+
+## Commands
+
+Install dependencies:
+
+```cmd
 npm install
 ```
 
-Run application: 
-```cmd 
+Run application:
+
+```cmd
 npm run dev
 ```
 
-Run tests:  
-```cmd 
+Run tests:
+
+```cmd
 npm run test
 ```
 
-## Technologies 
- `` dotenv | eslint| fastify| knex | node | sqlite3| typescript| zod | supertest | vitest ``
+## Technologies
 
+`dotenv | fastify| node | typescript| zod | supertest | vitest`

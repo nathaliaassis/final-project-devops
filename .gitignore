@@ -1,9 +1,6 @@
 # Build
 build
 
-# Database
-db/*.db
-
 # Dependencies
 node_modules
 
