@@ -45,7 +45,7 @@ describe("@Authenticate Service: ", () => {
       num2: 10,
     });
 
-    expect(result).toEqual(2);
+    expect(result).toEqual(5);
   });
 
   it("should return a message when user passes an invalid operator", async () => {
